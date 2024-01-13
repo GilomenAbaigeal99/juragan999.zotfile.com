@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://juragan999.zotfile.com/sitemap.xml
